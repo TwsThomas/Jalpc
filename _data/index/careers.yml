@@ -1,7 +1,5 @@
-# careers section data
-# if you don't have language feature(language.yml is empty), ignore "i18n" items
-# bazar
-
+# careers section data.
+# if you don't have language feature(language.yml is empty), ignore "i18n" items.
 - name:
     detail: Research Engineer at INRIA Paris
     i18n: company_a
@@ -22,7 +20,7 @@
     detail: PostDoc at Nara / Japan
     i18n: company_b
   desc:
-    detail: Algorithms and Data Structures for Machine Learning
+    detail: Neural network for text documents embedding
     i18n: company_b_desc
   date:
     detail: Jan. 2018 - Jun. 2018
