@@ -1,13 +1,29 @@
 #
 
 - name:
-    detail: Research Engineer at INRIA Paris
+    detail: Data Scientist at Youboox
     i18n: company_a
   desc:
-    detail: Working as a team support and contributing to the Scikit-Learn library. Implementing algorithms to handle missing values and writing tutorials on missing values imputation.
+    detail: Create and deploy the Recommender System for the Youboox application. Using Python, Airflow and BigQuery
     i18n: company_a_desc
   date:
-    detail: Aug. 2019 - Now
+    detail: Mars 2021 - Now
+    i18n: company_a_date
+  job:
+    detail: Data Scientist
+    i18n: company_a_job
+  icon: fa-rocket
+  present: true
+
+
+- name:
+    detail: Research Engineer at INRIA
+    i18n: company_a
+  desc:
+    detail: Working as a team support and contributing to the Scikit-Learn library. Implementing algorithms to handle missing values and writing tutorials on machine learning.
+    i18n: company_a_desc
+  date:
+    detail: Aug. 2019 - Dec. 2020
     i18n: company_a_date
   job:
     detail: Research Engineer
